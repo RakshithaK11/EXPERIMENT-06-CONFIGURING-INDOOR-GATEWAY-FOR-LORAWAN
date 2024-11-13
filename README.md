@@ -1,3 +1,6 @@
+# NAME: RAKSHITHA K
+# REGISTER NUMBER: 212223110039
+# DATE:
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
